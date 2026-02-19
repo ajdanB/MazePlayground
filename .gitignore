@@ -71,3 +71,13 @@ Thumbs.db
 
 # Misc
 instance/
+
+# Screen recordings and terminal casts
+*.cast
+*.cast.gz
+*.mp4
+*.webm
+*.mov
+*.mkv
+*.avi
+*.flv

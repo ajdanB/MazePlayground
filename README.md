@@ -1,5 +1,7 @@
 # MazePlayground
 
+![Demo des MazePlayground](assets/demo.gif)
+
 Ein kleines Python-Projekt zur Erzeugung und Lösung von Labyrinthen.
 
 Kurze Anleitung
@@ -26,3 +28,6 @@ Inhalt
 Lizenz
 
 Dieses Projekt steht unter der Creative Commons Attribution 4.0 International (CC BY 4.0). Siehe `LICENSE` für Details.
+
+
+
