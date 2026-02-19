@@ -48,6 +48,8 @@ Katze = Start, Maus = Ziel
 - Erstellung von PDFs, Speichern von Labyrinthen
 - mehrere Ebenen hinzufügen (3D-Labyrinthe)
 - andere Algorithmen zur Generierung der Labyrinthe implementieren (und Möglichkeit der Auswahl des Algorithmus)
+- Anzeige auf Display und Bewegen durch das Labyrinth mit Tastern
+- Animation des Lösungsweges
 
 
 ### Lizenz
